@@ -1,4 +1,4 @@
-### JavaScript 
+# JavaScript 
 #### [[Dates & times]]
 #### [[Iteration]]
 * [[Generators]]
@@ -8,3 +8,4 @@
 #### [[Object Oriented Programming]]
 *  [[Prototype]]
 * [[Class]]
+
