@@ -1,5 +1,9 @@
-# JavaScript 
-#### [[Dates & times]]
+# Data Structures
+## [[Primitive Data Types]]
+### [[String]]
+## Object Data Types
+### [[Dates & times]]
+
 #### [[Iteration]]
 * [[Generators]]
 #### [[Modules]]
